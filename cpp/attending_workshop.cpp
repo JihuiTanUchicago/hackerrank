@@ -41,6 +41,13 @@ int CalculateMaxWorkshops(Available_Workshops* ptr){
     return count;
 }
 
+<<<<<<<<<<<<<<  ✨ Codeium Command ⭐  >>>>>>>>>>>>>>>>
+/**
+ * Reads in the number of workshops, then the start and end times of all workshops.
+ * Calculates the maximum number of workshops that can be attended.
+ * Prints the result to stdout.
+ */
+<<<<<<<  2cb1ea70-04a5-4756-a915-049d85d4610c  >>>>>>>
 int main(int argc, char *argv[]) {
     int n; // number of workshops
     cin >> n;
